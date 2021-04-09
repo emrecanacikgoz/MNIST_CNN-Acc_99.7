@@ -8,5 +8,5 @@ GPU support from Colab <br/>
 <br/>
 --Pytorch version-- <br/>
 In Pytorch version, another architecture was used, again, please check for details. <br/> 
-Results => Training: 99.5% Validation: 99.5% <br/>
+Results => Training: 99.5% Validation: 99.55% <br/>
 GPU support from Colab <br/> 

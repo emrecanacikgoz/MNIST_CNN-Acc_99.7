@@ -1,5 +1,5 @@
 # MNIST-Competation
-This is a part of compeatation from Kaggle. <br/>
+This is a part of competation from Kaggle. <br/>
 <br/>
 --TensorFlow Version-- <br/>
 In Tf version, Data Augmentation and Dropout techniques were used, please check notebook for details. <br/>

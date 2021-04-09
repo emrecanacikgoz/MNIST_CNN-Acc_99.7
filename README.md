@@ -2,7 +2,7 @@
 This is a part of compeatation from Kaggle.
 
 --TensorFlow Version--
-In Tf version, Data Augmentation and Dropout techniques are used, please check notebook for details.
+In Tf version, Data Augmentation and Dropout techniques are used, please check notebook for details. \n
 Results => Training: 99.7% Validation: 99.5%
 GPU support from Colab
 
